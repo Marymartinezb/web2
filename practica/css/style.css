@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* GENERAL */
+
+body {
+	font-family: Helvetica, arial, sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	border-bottom: 1px solid #999;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+	list-style-position: inside;
+}
+
+dt {
+	border-right: 1px solid #999;
+	float: left;
+	font: bold 18px Helvetica, arial, sans-serif;
+	margin-bottom: 15px;
+	padding: 0 20px 75px 0;
+	text-align: right;
+	width: 20%;
+}
+
+dd {
+	float: right;
+	margin-left: 10px;
+	width: 75%;
+}
+
+/* HELPERS */
+
+.clear {
+	clear: both;
+}
+
+/* CONTAINER */
+
+.page-wrap {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 800px;
+}
+
+/* CONTACT INFO */
+
+.pic {
+	float: right;
+}
+
+.contact-info {
+	margin: 20px 0;
+}
+
+.email {
+	border-bottom: 1px dotted #a1a1a1;
+	color: #999;
+	text-decoration: none;
+}
+
+/* OBJETIVE */
+
+.objective {
+	margin-bottom: 40px;
+}
+
+.objective p {
+	color: #999;
+	font: italic 18px times, arial, sans-serif;
+}
+
+/* DESCRIPTION LIST*/
+
+.margin-bottom-space {
+	margin-bottom: 20px;
+}
+
+.experience-descrip {
+	color: #999;
+	font: italic 17px times, arial, sans-serif;
+	float: right;
+}
