@@ -1,0 +1,42 @@
+// GENERAL
+
+body {
+	font-family: $first-font;
+}
+
+h1 {
+	font-size: 40px;
+	border-bottom: 1px solid #999;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+p {
+	line-height: $line-space;
+}
+
+li {
+	line-height: $line-space;
+	list-style-position: inside;
+}
+
+dt {
+	border-right: 1px solid #999;
+	float: left;
+	font: italic bold 18px $first-font;
+	margin-bottom: 15px;
+	padding: 0 20px 75px 0;
+	text-align: right;
+	width: 20%;
+}
+
+dd {
+	float: right;
+	margin-left: 10px;
+	width: 75%;
+}

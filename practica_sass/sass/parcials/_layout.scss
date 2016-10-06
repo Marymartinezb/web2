@@ -1,0 +1,46 @@
+// CONTAINER 
+
+.page-wrap {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 800px;
+}
+
+// CONTACT INFO
+
+.pic {
+	float: right;
+}
+
+.contact-info {
+	margin: 20px 0;
+}
+
+.email {
+	border-bottom: 1px dotted #a1a1a1;
+	color: $gray;
+	text-decoration: none;
+}
+
+// OBJETIVE
+
+.objective {
+	margin-bottom: 40px;
+}
+
+.objective p {
+	color: $gray;
+	font: italic 18px $second-font;
+}
+
+// DESCRIPTION LIST
+
+.margin-bottom-space {
+	margin-bottom: 20px;
+}
+
+.experience-descrip {
+	color: $gray;
+	font: italic 17px $second-font;
+	float: right;
+}
