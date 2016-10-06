@@ -33,7 +33,7 @@ li {
 dt {
 	border-right: 1px solid #999;
 	float: left;
-	font: bold 18px Helvetica, arial, sans-serif;
+	font: italic bold 18px Helvetica, arial, sans-serif;
 	margin-bottom: 15px;
 	padding: 0 20px 75px 0;
 	text-align: right;
