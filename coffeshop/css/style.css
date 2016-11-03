@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+  clear: both; }
+
+body {
+  color: #9d9c9d;
+  font: 14px Helvetica;
+  line-height: 1.7; }
+
+h2 {
+  font-size: 20px; }
+
+h3 {
+  padding: 10px 0; }
+
+a {
+  text-decoration: none; }
+
+p {
+  font-size: 15px; }
+
+.wrapper {
+  margin: 0 auto;
+  width: 1100px; }
+
+.back-header {
+  background-color: #e8e8e8; }
+
+.border-page {
+  border-top: 10px solid #664735; }
+
+.menu-head {
+  padding: 40px 0; }
+
+.nav {
+  background-color: #f6f5f5;
+  border-radius: 35px;
+  float: right; }
+  .nav li {
+    border-left: 1px solid #e8e8e8;
+    list-style: none;
+    display: inline-block;
+    padding: 20px 25px; }
+    .nav li:first-child {
+      border-left: none; }
+    .nav li a {
+      color: #9d9c9d; }
+
+.readmore {
+  color: #664735;
+  font: italic 13px Helvetica; }
+
+.slider {
+  position: relative; }
+
+.slider-content {
+  padding: 70px 70px;
+  width: 40%;
+  float: left; }
+  .slider-content a {
+    color: #6f6d6d; }
+
+.slider-leftarrow {
+  position: absolute;
+  left: 0;
+  top: 50%; }
+
+.slider-rightarrow {
+  position: absolute;
+  right: 0;
+  top: 50%; }
+
+.buttons {
+  position: absolute;
+  bottom: 0;
+  left: 50%; }
+
+.btn-1, .btn-2 {
+  background-color: #664735;
+  border: none;
+  border-radius: 50%;
+  height: 8px;
+  width: 8px; }
+
+.btn-2 {
+  background-color: #9d9c9d; }
+
+.article {
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin: 80px 0; }
+
+.center {
+  margin: 80px 120px; }
+
+.about-us {
+  background-color: #664735; }
+  .about-us img {
+    width: 50%; }
+
+.feature {
+  box-sizing: border-box;
+  color: #fff;
+  float: right;
+  padding: 3%;
+  width: 50%; }
+  .feature p {
+    margin-bottom: 30px;
+    font-size: 13px; }
+
+.btn-feature {
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  color: #664735;
+  font: italic 13px Helvetica;
+  padding: 15px 20px; }
+
+.gallery {
+  text-align: center;
+  margin: 145px auto; }
+
+.gallery-imgs {
+  background-color: #664735;
+  margin: 30px auto;
+  width: 1065px; }
+  .gallery-imgs img {
+    float: left; }
+
+footer {
+  background-color: #664735;
+  background-image: url("../img/footer-repeat.png");
+  background-repeat: repeat;
+  color: #fff; }
+
+.footer-content {
+  display: flex; }
+  .footer-content div {
+    margin: 40px 20px;
+    width: 250px; }
+  .footer-content p {
+    font-size: 13px; }
+
+.social-media img {
+  margin: 0 10px 0 0; }
+
+/*# sourceMappingURL=style.css.map */

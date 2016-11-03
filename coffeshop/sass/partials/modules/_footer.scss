@@ -1,0 +1,29 @@
+//FOOTER
+
+footer {
+	background-color: $brown;
+	background-image: url("../img/footer-repeat.png");
+	background-repeat: repeat;
+	color: #fff;
+}
+
+.footer-content {
+
+	display: flex;
+
+	div {
+		margin: 40px 20px;
+		width: 250px;
+	}
+
+	p {
+		font-size: 13px;
+	}
+}
+
+.social-media {
+
+	img {
+		margin: 0 10px 0 0;
+	}
+}

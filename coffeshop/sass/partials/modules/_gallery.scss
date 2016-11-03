@@ -1,0 +1,17 @@
+//GALLERY
+
+.gallery {
+	text-align: center;
+	margin: 145px auto;
+}
+
+.gallery-imgs {
+	background-color: $brown;
+	margin: 30px auto;
+	width: 1065px;
+
+
+	img{
+		float: left;
+	}
+}

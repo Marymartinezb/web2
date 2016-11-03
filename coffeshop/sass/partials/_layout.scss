@@ -1,0 +1,16 @@
+// LAYOUT
+
+.wrapper {
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.back-header {
+	background-color: $light-gray;
+}
+
+.border-page {
+	border-top: 10px solid $brown;	
+}
+
+@import 'modules/modules';

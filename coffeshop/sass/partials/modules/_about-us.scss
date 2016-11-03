@@ -1,0 +1,31 @@
+//ABOUT US
+.about-us{
+	background-color: $brown;
+
+	img{
+		width: 50%;
+	}
+}
+
+.feature{
+
+	box-sizing: border-box;
+	color: #fff;
+	float: right;
+	padding: 3%;
+	width: 50%;
+
+	p{
+		margin-bottom: 30px;
+		font-size: 13px;
+	}
+}
+
+.btn-feature {
+	background-color: #fff;
+	border: none;
+	border-radius: 5px;
+	color: $brown;
+	font: italic 13px $first-font;	
+	padding: 15px 20px;
+}

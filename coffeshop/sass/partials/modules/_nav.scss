@@ -1,0 +1,26 @@
+//MENU
+
+.menu-head {
+	padding: 40px 0;
+}
+
+.nav {
+	background-color: #f6f5f5;
+	border-radius: 35px;
+	float: right;
+	
+	li{
+		border-left: 1px solid $light-gray;
+		list-style: none;
+		display: inline-block;
+		padding: 20px 25px;
+		
+		&:first-child {
+			border-left: none;
+		}
+		
+		a{
+			color: $general-font-color;
+		}
+	}
+}
