@@ -26,7 +26,8 @@ p {
 
 .wrapper {
   margin: 0 auto;
-  width: 1100px; }
+  width: 57.29%;
+  min-width: 1110px; }
 
 .back-header {
   background-color: #e8e8e8; }
@@ -59,7 +60,7 @@ p {
   position: relative; }
 
 .slider-content {
-  padding: 70px 70px;
+  padding: 70px;
   width: 40%;
   float: left; }
   .slider-content a {
@@ -96,7 +97,7 @@ p {
   text-align: center;
   margin: 80px 0; }
 
-.center {
+.article-center {
   margin: 80px 120px; }
 
 .about-us {
@@ -129,7 +130,7 @@ p {
 .gallery-imgs {
   background-color: #664735;
   margin: 30px auto;
-  width: 1065px; }
+  width: 84%; }
   .gallery-imgs img {
     float: left; }
 
