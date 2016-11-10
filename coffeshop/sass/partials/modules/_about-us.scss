@@ -1,6 +1,7 @@
 //ABOUT US
 .about-us{
 	background-color: $brown;
+	width: 100%;
 
 	img{
 		width: 50%;
@@ -12,20 +13,20 @@
 	box-sizing: border-box;
 	color: #fff;
 	float: right;
-	padding: 3%;
+	padding: 3.4375em;
 	width: 50%;
 
 	p{
-		margin-bottom: 30px;
-		font-size: 13px;
+		margin-bottom: 1.875em;
+		font-size: 0.8125em;
 	}
 }
 
 .btn-feature {
 	background-color: #fff;
 	border: none;
-	border-radius: 5px;
+	border-radius: 0.3125em;
 	color: $brown;
-	font: italic 13px $first-font;	
-	padding: 15px 20px;
-}
+	font: italic 0.8125em $first-font;	
+	padding: 0.9375em 1.25em;
+}		

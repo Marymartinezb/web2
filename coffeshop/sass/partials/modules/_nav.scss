@@ -1,19 +1,19 @@
 //MENU
 
 .menu-head {
-	padding: 40px 0;
+	padding: 2.5em 0;
 }
 
 .nav {
 	background-color: #f6f5f5;
-	border-radius: 35px;
+	border-radius: 2.1875em;
 	float: right;
 	
 	li{
-		border-left: 1px solid $light-gray;
+		border-left: 0.0625em solid $light-gray;
 		list-style: none;
 		display: inline-block;
-		padding: 20px 25px;
+		padding: 1.25em 1.5625em;
 		
 		&:first-child {
 			border-left: none;
